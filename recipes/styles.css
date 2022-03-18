@@ -1,0 +1,27 @@
+.recipe {
+    color: red; 
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(140, 0, 255);
+    font-size: 30;
+    text-align: left;
+}
+ul {
+    color: rgb(76, 0, 255);
+}
+ol {
+    color: darkmagenta;
+}
+.hello {
+    text-align: center;
+}
+h1 {
+    color: hotpink;
+    background-color: beige;
+}
+body {
+    background-color: aqua
+}
